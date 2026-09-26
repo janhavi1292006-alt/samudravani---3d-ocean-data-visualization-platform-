@@ -1,0 +1,6 @@
+{
+  "name": "SamudraVani - 3D Ocean Data Visualization Platform",
+  "description": "Smart India Hackathon 2026 (SIH 26067) browser-based 3D Ocean Data Visualization Platform integrating numerical ocean model outputs with real-world in-situ observations (Argo, Gliders, CTD, BGC) for MoES & INCOIS.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
